@@ -14,7 +14,8 @@
 
     End Function
     ''' <summary>
-    ''' Validar un formulario
+    ''' Validar un formulario se pude hacer de muchas formas, una de ellas es a la hora de pulsar el botón aceptar.
+    ''' Tenemos que validar todos los errores por separado para poder informar al usuario de TODOS los errores cometidos.
     ''' </summary>
     ''' <param name="sender"></param>
     ''' <param name="e"></param>
